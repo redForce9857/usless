@@ -39,9 +39,9 @@ button:hover {
   position: fixed;
   top: 0;
   left: 0;
-  width: 600px;
-  height: 600px;
-  z-index: 600px; /* Ensures the image is on top */
+  width: 10px;
+  height: 10px;
+  z-index: 10px; /* Ensures the image is on top */
 }
 
 img{
