@@ -36,12 +36,8 @@ button:hover {
 
 /* Make the image cover the entire screen */
 #trumpImage {
-  position: fixed;
-  top: 0;
-  left: 0;
   width: 10px;
   height: 10px;
-  z-index: 10px; /* Ensures the image is on top */
 }
 
 img{
